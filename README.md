@@ -28,9 +28,13 @@ Recommendations:
 To mitigate attrition, it is essential to implement targeted strategies such as enhancing compensation packages, offering tailored professional development, improving job satisfaction, and fostering a positive work environment.
 
 Focus on competitive pay for roles and demographics with high attrition.
+
 Develop specific retention programs based on job roles and educational backgrounds.
+
 Improve onboarding experiences and create career paths for new hires.
+
 Introduce wellness programs and career development initiatives to address job satisfaction issues.
+
 Implement policies that support work-life balance and inclusivity across all genders.
 
 
